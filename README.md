@@ -1,5 +1,5 @@
 # Sports-news
-NewsNow is a simple Sports news app which uses the API provided below to fetch top trending news in India.
+Sports News is a simple Sports news app which uses the API provided below to fetch top trending news in India.
 
 This Application is made using Kotlin Programming Language.
 
